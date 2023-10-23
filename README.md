@@ -1,3 +1,3 @@
 # LeetHub
 
-## LeetHub Problem Solving with JavaScript !
+## LeetHub Problem Solving 
