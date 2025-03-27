@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OwaliShawon/LeetHub/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/OwaliShawon/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OwaliShawon/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/OwaliShawon/LeetHub/tree/master/0443-string-compression) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/OwaliShawon/LeetHub/tree/master/2058-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/OwaliShawon/LeetHub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
