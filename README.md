@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/OwaliShawon/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/OwaliShawon/LeetHub/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
