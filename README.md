@@ -35,6 +35,7 @@
 | [0238-product-of-array-except-self](https://github.com/OwaliShawon/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/OwaliShawon/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [2058-concatenation-of-array](https://github.com/OwaliShawon/LeetHub/tree/master/2058-concatenation-of-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/OwaliShawon/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/OwaliShawon/LeetHub/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/OwaliShawon/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 <!---LeetCode Topics End-->
