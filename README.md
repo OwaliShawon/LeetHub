@@ -35,6 +35,7 @@
 | [0238-product-of-array-except-self](https://github.com/OwaliShawon/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/OwaliShawon/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [2058-concatenation-of-array](https://github.com/OwaliShawon/LeetHub/tree/master/2058-concatenation-of-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OwaliShawon/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/OwaliShawon/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Prefix Sum
 |  |
@@ -68,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OwaliShawon/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/OwaliShawon/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Database
 |  |
