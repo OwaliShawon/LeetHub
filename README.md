@@ -60,10 +60,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/OwaliShawon/LeetHub/tree/master/0155-min-stack) |
+| [0838-design-linked-list](https://github.com/OwaliShawon/LeetHub/tree/master/0838-design-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/OwaliShawon/LeetHub/tree/master/0021-merge-two-sorted-lists) |
+| [0838-design-linked-list](https://github.com/OwaliShawon/LeetHub/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
