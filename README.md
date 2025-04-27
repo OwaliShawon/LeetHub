@@ -37,6 +37,7 @@
 | [0238-product-of-array-except-self](https://github.com/OwaliShawon/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/OwaliShawon/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/OwaliShawon/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/OwaliShawon/LeetHub/tree/master/2058-concatenation-of-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OwaliShawon/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/OwaliShawon/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -51,6 +52,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/OwaliShawon/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/OwaliShawon/LeetHub/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
@@ -58,6 +60,7 @@
 | [0020-valid-parentheses](https://github.com/OwaliShawon/LeetHub/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/OwaliShawon/LeetHub/tree/master/0155-min-stack) |
 | [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/OwaliShawon/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/OwaliShawon/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
