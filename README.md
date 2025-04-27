@@ -26,12 +26,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OwaliShawon/LeetHub/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/OwaliShawon/LeetHub/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/OwaliShawon/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OwaliShawon/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/OwaliShawon/LeetHub/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/OwaliShawon/LeetHub/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/OwaliShawon/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/OwaliShawon/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [2058-concatenation-of-array](https://github.com/OwaliShawon/LeetHub/tree/master/2058-concatenation-of-array) |
@@ -69,6 +71,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/OwaliShawon/LeetHub/tree/master/0049-group-anagrams) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OwaliShawon/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/OwaliShawon/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Database
@@ -80,4 +83,8 @@
 | [1258-article-views-i](https://github.com/OwaliShawon/LeetHub/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/OwaliShawon/LeetHub/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/OwaliShawon/LeetHub/tree/master/1827-invalid-tweets) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/OwaliShawon/LeetHub/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
