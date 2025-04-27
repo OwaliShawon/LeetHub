@@ -36,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/OwaliShawon/LeetHub/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/OwaliShawon/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/OwaliShawon/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
+| [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/OwaliShawon/LeetHub/tree/master/2058-concatenation-of-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OwaliShawon/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/OwaliShawon/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -56,16 +57,19 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/OwaliShawon/LeetHub/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/OwaliShawon/LeetHub/tree/master/0155-min-stack) |
+| [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/OwaliShawon/LeetHub/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/OwaliShawon/LeetHub/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/OwaliShawon/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0838-design-linked-list](https://github.com/OwaliShawon/LeetHub/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +93,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/OwaliShawon/LeetHub/tree/master/0049-group-anagrams) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
