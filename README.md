@@ -59,12 +59,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/OwaliShawon/LeetHub/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/OwaliShawon/LeetHub/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/OwaliShawon/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/OwaliShawon/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/OwaliShawon/LeetHub/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/OwaliShawon/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/OwaliShawon/LeetHub/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 ## Linked List
@@ -107,5 +109,6 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/OwaliShawon/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/OwaliShawon/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
