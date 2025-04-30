@@ -36,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/OwaliShawon/LeetHub/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/OwaliShawon/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/OwaliShawon/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/OwaliShawon/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/OwaliShawon/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/OwaliShawon/LeetHub/tree/master/2058-concatenation-of-array) |
@@ -111,4 +112,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/OwaliShawon/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/OwaliShawon/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/OwaliShawon/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
