@@ -33,6 +33,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/OwaliShawon/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OwaliShawon/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/OwaliShawon/LeetHub/tree/master/0443-string-compression) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OwaliShawon/LeetHub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
 | ------- |
@@ -130,4 +131,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/OwaliShawon/LeetHub/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OwaliShawon/LeetHub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
