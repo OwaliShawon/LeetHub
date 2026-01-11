@@ -126,10 +126,19 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OwaliShawon/LeetHub/tree/master/0070-climbing-stairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/OwaliShawon/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/OwaliShawon/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OwaliShawon/LeetHub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OwaliShawon/LeetHub/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OwaliShawon/LeetHub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
