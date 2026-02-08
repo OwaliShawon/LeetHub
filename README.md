@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/OwaliShawon/LeetHub/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/OwaliShawon/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/OwaliShawon/LeetHub/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/OwaliShawon/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/OwaliShawon/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1582-design-browser-history](https://github.com/OwaliShawon/LeetHub/tree/master/1582-design-browser-history) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/OwaliShawon/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/OwaliShawon/LeetHub/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/OwaliShawon/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/OwaliShawon/LeetHub/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/OwaliShawon/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OwaliShawon/LeetHub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/OwaliShawon/LeetHub/tree/master/0700-search-in-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/OwaliShawon/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
